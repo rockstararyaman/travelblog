@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: caveat, cursive;
+    background-color: #BBDEFB;
+}
+
+img {
+    height: 280px;
+    width: 300px;
+}
+
+p {
+    font-size: 50px;
+}
